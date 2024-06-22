@@ -24,7 +24,10 @@ I am an Electronic Instrumentation Engineer currently pursuing a Master's degree
   - **Advanced Topics**: Transfer learning, active learning, ensemble methods, self-labeling, hybrid networks, non-linear models, GANs, autoencoders.
 
 - **Applications**: 
-  - DSP (Imaging and Audio processing), speech emotion recognition, classification, resonant magnetic imaging, regression, prediction, dashboards.
+  - DSP (Imaging and Audio processing), speech emotion recognition, classification, resonant magnetic imaging (fMRI), regression, prediction, dashboards.
+
+- **Tools and Libraries**: 
+  - Pytorch, TensorFlow, Scikit-learn, PIL, OpenCV, Dash, **MATLAB** and more.
 
 ---
 
