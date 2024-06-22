@@ -9,10 +9,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://irp-cdn.multiscreensite.com/a2375d25/dms3rep/multi/GIF_C%C3%A9rebro.gif" width="600" height="300"/>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <h3>Data Viz</h3>
+      <img src="assets/data_viz.gif" alt="Video 1 GIF" width="320" height="180" />
+    </td>
+    <td>
+      <h3>Machine Learning</h3>
+      <img src="assets/ml.gif" alt="Video 2 GIF" width="320" height="180" />
+    </td>
+    <td>
+      <h3>Computer Vision</h3>
+      <img src="assets/vision.gif" alt="Video 3 GIF" width="320" height="180" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### :man_technologist: About Me :
