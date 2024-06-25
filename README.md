@@ -16,7 +16,7 @@ I am an Electronic Instrumentation Engineer currently pursuing a Master's degree
 ---
 ## Machine Learning
 <div align="center">
-  <img src="assets/ml.gif" alt="Machine Learning GIF" width="40%" />
+  <img src="assets/ml_3.gif" alt="Machine Learning GIF" width="40%" />
 </div>
 
 - **Knowledge Base**:
