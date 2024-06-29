@@ -6,10 +6,10 @@ I am an Electronic Instrumentation Engineer currently pursuing a Master's degree
 - **Machine Learning**: Solid foundations in various ML techniques including regression, classification, clustering, and deep learning models such as CNNs, RNNs, Transfer Learning & Fine Tuning.
 - **Digital Signal Processing**: Extensive experience in DSP applications, particularly in voice processing and speech emotion recognition.
 - **Advanced Techniques**: Proficiency in tools like Wav2vec2, eGeMAPS, HuBERT, Whisper for advanced speech recognition and processing.
-- **Data Annotation**: Skilled in using LabelStudio for creating high-quality datasets.
-- **Big Data Technologies**: Familiar with Apache Spark and Databricks.
+- **Big Data Technologies**: Familiar with `Apache Spark`, `Databricks` and `IBM Watson`.
 - **Database Management**: Experienced in managing databases with MongoDB, MySQL, and SQL.
-- **Computer Vision**: Knowledgeable in using `opencv`, ML algorithms and YOLO for various applications.
+- **Computer Vision**: Knowledgeable in using `opencv`, ML algorithms and YOLO for various applications. Skilled in using `LabelStudio` for **Data Annotation**
+- **Dashboards**: Strong knowledge in `Power BI` and creating dashboards with Python.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxmrs)
 
@@ -33,16 +33,18 @@ I am an Electronic Instrumentation Engineer currently pursuing a Master's degree
 
 ## Data Visualization
 <div align="center">
-  <img src="assets/data_viz.gif" alt="Data Visualization GIF" width="40%" />
+  <img src="assets/viz2.gif" alt="Data Visualization GIF" width="40%" />
 </div>
 
-- **Tools and Libraries**: Extensive experience with dashboards, `matplotlib`, `seaborn`, `plotly`, `folium`, and more.
+- **Tools and Libraries**:
+  - Extensive experience with dashboards, `matplotlib`, `seaborn`, `plotly`, `folium`, and more.
+  - Strong knowledge in `Power BI`.
 
 ---
 
 ## Computer Vision
 <div align="center">
-  <img src="assets/vision.gif" alt="Computer Vision GIF" width="40%" />
+  <img src="assets/vision2.gif" alt="Computer Vision GIF" width="40%" />
 </div>
 
 - **Technologies and Tools**: YOLO, Google DeepDream, LabelStudio, and other advanced computer vision techniques.
